@@ -28,7 +28,7 @@ export default function App() {
         onRequestClose={modalClose}
       > 
       <View style={styles.modalContainer}>
-        <Text>+45 51 82 46 70</Text>
+        <Text>+45 12 34 56 78 </Text>
         <Text>thomas@goautonomous.io</Text>
         <Button title='Close' onPress={modalClose} />
       </View>
